@@ -1,13 +1,12 @@
 {
-  "homepage": "https://VidhaPandey.github.io/my-app-1",
-  "name": "my-app",
+  "homepage": "https://VidhaPandey.github.io/TextUtils-React",
+  "name": "my-app-1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^6.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.0",
@@ -16,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VidhaPandey/my-app-1.git"
+    "url": "https://github.com/VidhaPandey/TextUtils-React.git"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -43,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
